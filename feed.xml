@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Knowledge Vault</title>
+    <link>https://mehmetemirkavukcu.github.io/knowledge-feed/</link>
+    <atom:link href="https://mehmetemirkavukcu.github.io/knowledge-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Daily 15-minute academic briefings on history, religion, philosophy, economics and society, researched from published scholarship.</description>
+    <language>en</language>
+    <itunes:author>Knowledge Vault</itunes:author>
+    <itunes:image href="https://mehmetemirkavukcu.github.io/knowledge-feed/cover.jpg" />
+    <itunes:category text="Education" />
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+  </channel>
+</rss>
